@@ -1,4 +1,4 @@
-# ESPhome
+# Vaillant X6 mit ESPhome 
 
 Vaillant X6 sensor
 
